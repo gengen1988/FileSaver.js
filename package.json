@@ -1,0 +1,19 @@
+{
+  "name": "filesaver",
+  "version": "1.0.0",
+  "description": "FileSaver.js\r ============",
+  "main": "FileSaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gengen1988/FileSaver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gengen1988/FileSaver.js/issues"
+  },
+  "homepage": "https://github.com/gengen1988/FileSaver.js"
+}
